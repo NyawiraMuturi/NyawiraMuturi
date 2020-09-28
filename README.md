@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Albina Nyawira Muturi
 
-
+<img src="https://lh3.googleusercontent.com/-8p6HWxazhIA/X28J6UZfWtI/AAAAAAAAK0E/32DQIsH7m88501fWox4r38KzHah9g7DiQCK8BGAsYHg/s0/2020-09-26.jpg"/>
 
 - 🔭 I’m currently working on a logistics application
 - 🌱 I’m currently learning flutter
