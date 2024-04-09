@@ -1,3 +1,3 @@
 
-![](https://komarev.com/ghpvc/?username=NyawiraMuturi&base=500&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=NyawiraMuturi&style=for-the-badge&color=brightgreen)
 
