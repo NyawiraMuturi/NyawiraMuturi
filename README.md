@@ -2,7 +2,7 @@
 <h3 align="center">This is where the magic happens</h3>
 
 - 📝&nbsp;I regulary write articles in **[my blog](https://dame-techie.hashnode.dev/)**
-- - 🤝&nbsp; Here to build random things using  **[Javascript, Rust (maybe), and other cool tools]**
+- 🤝&nbsp; Here to build random things using  **[Javascript, Rust (maybe), and other cool tools]**
     
 ![](https://komarev.com/ghpvc/?username=NyawiraMuturi&style=for-the-badge&color=brightgreen)
 
